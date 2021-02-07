@@ -1,0 +1,28 @@
+body {
+font-family: 'Roboto Condensed', sans-serif;
+background:#bdb2ff;
+color:#ffc6ff
+}
+#badminton-pic{
+  height: auto;
+  width:500px;
+}
+.headline{
+  background:#fbd751;
+  color: #ffc6ff;
+  height: 130px;
+  width: 1235px; 
+  margin: 30px 30px 0px 30px;
+  padding: 5px 0px 5px 0px;
+  text-align: center;
+  font-size: 23px;
+  
+}
+.link{
+background-color:#80e18a;
+color:#1f1a09;
+height:300px;
+width:1100px;
+margin : 0px;
+padding : 10px 40px 10px 80px;
+}
